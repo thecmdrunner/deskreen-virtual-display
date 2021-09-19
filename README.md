@@ -34,7 +34,7 @@ git clone https://github.com/thegamerhat/deskreen-virtual-display
 
 Open `make-virtual-output.sh` and edit the variables accordingly.
 
-In my case, the values will be:
+In my case, the values are:
 
 ```bash
 # REPLACE THE VALUES WITH YOUR OWN:
@@ -95,10 +95,13 @@ HDMI-A-0 connected primary 1920x1080+0+0 (normal left inverted right x axis y ax
 </details>
 </p>
 
-### C. Verify if the new output is detected in Display Settings
+And done! A virtual display has been created. 
+
+### C. Verify configuration
+
+Verify that it is detected by the system in the system settings.
 
 ![Screenshot of Display Settings](https://imgur.com/Ze2tbFP.png)
-
 
 # 2. Easy Part!
 
