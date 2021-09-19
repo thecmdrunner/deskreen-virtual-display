@@ -26,6 +26,12 @@ As you can see, I have total 2 display outputs, `HDMI-A-0` (HDMI Port, which is 
 
 #### i. Declare Variables:
 
+Clone the repository
+
+```bash
+git clone https://github.com/thegamerhat/deskreen-virtual-display
+```
+
 Open `make-virtual-output.sh` and edit the variables accordingly.
 
 In my case, the values will be:
